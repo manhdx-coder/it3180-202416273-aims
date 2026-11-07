@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Added
+- Add sort_by_title() to sort DVDs alphabetically by title.
+- Add sort_by_cost() to sort DVDs by ascending cost.
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
