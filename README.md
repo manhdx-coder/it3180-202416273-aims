@@ -41,4 +41,3 @@ python -m unittest discover -s tests -v
 
 - **Sinh viên:** Đỗ Xuân Mạnh
 - **MSSV:** 202416273
-- **Môn học:** Quản lý cấu hình phần mềm – IT3180
