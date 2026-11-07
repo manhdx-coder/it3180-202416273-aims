@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.1.0] - 2026-11-07
+## [1.0.1] - 2026-11-07
+
+### Fixed
+- Document case-insensitive title search (#17).
 
 ### Added
 - Add search_by_category() to search DVDs by category.
